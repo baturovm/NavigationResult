@@ -1,4 +1,4 @@
-package dev.lostfilm.client.ui.extension.navigation
+package dev.lostfilm.client.navigation
 
 import android.os.Bundle
 import androidx.fragment.app.FragmentActivity
