@@ -1,4 +1,4 @@
-package dev.lostfilm.client.application
+package dev.lostfilm.client.navigation
 
 import android.os.Bundle
 import androidx.lifecycle.LiveData
